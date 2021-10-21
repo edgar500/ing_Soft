@@ -3,7 +3,7 @@
 
 ### ¿Qué son las metodologías ágiles?
 
-![Mi imagen](\resources\archivos\Metodologias agiles\MeAg.jpg)
+![MeAg](C:\Users\hp\Documents\Semestre 2022-1\Ingenieria de Sofware\Archivos Ingeieria de sofware\Actividades\GIT\Actividad-1-Ingenieria-de-software\docs\individual\Actividad 1\MeAg.jpg)
 
 
 #### Las metodologías ágiles sirven para entregar un mejor producto con menos costes en un menor tiempo, de este modo se mejora la productividad. 
