@@ -16,5 +16,10 @@
 
 #### Dicho lo anterior, se pueden dar estimaciones de tiempo más reales, ya que se puede analizar de forma más eficiente los tiempos de trabajo, ya que el plan de trabajo se estructura sobre la marcha del propio proyecto. Por lo tanto, al ver el avance de cada equipo involucrado en el proyecto se puede hacer una estimación de tiempo e incluso de costos más precisa, esto es bueno ya que se proyecta más profesionalismo y confianza con los clientes. 
 
+#### Otra de los aspectos a considerar será la participación del cliente en el proyecto, es decir no limitar al cliente a firmar un contrato, se trata de hacer sentir al cliente parte del proyecto de tal manera que puede proporcionar ideas o señalar aspectos en los que no está de acuerdo o que le gustaría reafirmar, de este modo el cliente puede sentir que el producto que se le entregue estará hecho cien por ciento a su medida y esto dará mayor satisfacción al cliente ya que se tomó en cuenta todo lo que necesitaba incluso reafirmar, añadir y remover aspectos del proyecto de forma dinámica.
 
-## Fin
+## Fuentes:
+
+#### https://www.iebschool.com/blog/que-son-metodologias-agiles-agile-scrum/
+#### https://www.luisan.net/blog/transformacion-digital/que-son-las-metodologias-agiles
+
