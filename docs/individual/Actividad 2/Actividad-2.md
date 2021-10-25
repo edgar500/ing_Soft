@@ -27,4 +27,14 @@
 #### -Desarrollador móvil.
 #### -Lider de proyecto.
 
+### Compila y ejecuta
+
+##### Una vez que tengas tu equipo formado comiencen a trabajar. De este modo se podrá apreciar más fácilmente las fortalezas de cada participante o el ambiente que va a imperar en el equipo. Al notar estos aspectos de forma oportuna cuando el proyecto apenas está comenzando te dará tiempo de realizar los cambios necesarios  antes de poner en riesgo un avance considerable en el proyecto. Por esta razón es importante comenzar a trabajar cuanto antes una vez esté formado el equipo.
+
+#### Como podemos ver, formar un buen equipo de desarrollo es muy complejo (o al menos lo será si quieres formar un buen equipo), debemos tomar en cuenta muchas variables de las cuales depende el éxito o el fracaso del proyecto. Por esta razón es muy importante saber conformar un equipo de desarrollo de software.
+
+### Fuentes:
+#### https://www.northware.mx/blog/como-armar-un-equipo-de-desarrollo-de-software/
+#### https://evalart.com/es/blog/como-armar-un-equipo-de-desarrollo-exitoso/
+#### https://velneo.es/como-crear-un-buen-departamento-de-programacion-en-tu-empresa/
 
