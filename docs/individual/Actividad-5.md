@@ -10,7 +10,7 @@
 
 # Actividad 5
 
-## Siles ochoa Edgar Jair
+## Siles Ochoa Edgar Jair
 
 
 ### ¿Qué es JSON y XML?
@@ -67,6 +67,42 @@ Este lenguaje es muy simple y fácil de emplear, sigue un estándar para la comu
 ### Cuadro comparativo:
 
 ![Mi Imágen](/archivos/individual/actividad-05/cuadro.jpg)
+
+
+### Ejemplos: 
+
+### JSON:
+
+####
+
+"menu": {
+        "id": "file",
+        "value": "File",
+        "popup": {
+            "menuitem": [
+                {
+                    "value": "New", "onclick": "CreateNewDoc()"
+                },{
+                    "value": "Open", "onclick": "OpenDoc()"
+                },{
+                    "value": "Close", "onclick": "CloseDoc()"
+                }
+            ]
+        }
+    }
+}
+
+
+### XML:
+
+ < menu id="file" value="File" >
+    < popup >
+      < menuitem value="New" onclick="CreateNewDoc()" />
+      < menuitem value="Open" onclick="OpenDoc()" />
+      < menuitem value="Close" onclick="CloseDoc()" />
+    < /popup>
+  < /menu> 
+
 
 ### Fuentes:
 
