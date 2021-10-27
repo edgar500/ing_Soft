@@ -10,7 +10,7 @@
 
 # Actividad 1
 
-## Siles ochoa Edgar Jair
+## Siles Ochoa Edgar Jair
 
 ### ¿Qué son las metodologías ágiles?
 
